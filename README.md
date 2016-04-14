@@ -12,7 +12,7 @@ Example: 1 2 FooFoo 4 BarBar Foo QixQix 8 Foo Bar
 
 
 
-More details:
+# More details:
 
 divisors have high precedence, ex: 51 -> FooBar
 
